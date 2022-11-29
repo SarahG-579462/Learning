@@ -1,0 +1,14 @@
+body 
+  { 
+    background-color: #FEFCF3;
+  }
+
+hr
+  {
+    background-color: #F0DBDB;
+    border-style: none;
+    height: 2px;
+    width: 30%;
+    justify-content: center;
+  }
+
