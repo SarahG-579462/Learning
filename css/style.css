@@ -11,4 +11,34 @@ hr
     width: 30%;
     justify-content: center;
   }
+a:link
+  {
+    color: #DBA39A; 
+    text-decoration: none;
+  }
+a:hover
+  {
+    color: #DBA3fA;
+    text-decoration: underline;
+  }
+a:visited
+  {
+    color: #DBA39A;
+    text-decoration: none;
+  }
+a:active
+  {
+    color: #DBA3fA;
+    text-decoration: underline;
+  }
+a.homework
+  {
+    color: #F0DBDB;
+    text-decoration: none;
+  }
+a.homework:hover
+  {
+    color: #DBA3fA;
+  }
+
 
